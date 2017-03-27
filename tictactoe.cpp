@@ -1,8 +1,3 @@
-// Nancy Mariano
-// tictactoe.cpp
-// April 28th, 2015
-// Purpose: Implements the Class of tictactoe.h
-
 #include "tictactoe.h"
 
 using namespace std;
