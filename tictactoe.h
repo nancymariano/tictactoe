@@ -1,6 +1,3 @@
-// Nancy Mariano
-// tictactoe.h
-// April 28th, 2015
 // Purpose: Allows two users to play multiple games of TicTacToe in which
 // each player tries to place their piece (an X or an O) on the board
 // either three in a row, three in a column or three in a perfect diagonal.
